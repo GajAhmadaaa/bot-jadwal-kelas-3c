@@ -1,0 +1,6 @@
+account_sid = 'ACff7b32978f9036c6ebe8b9f41dfdf053'
+auth_token = '8b1a91f4c747af077d3e8fa786e4ab91'
+botcaller = '+15085193797'
+yournum = '+6289638065793'
+yourwa = 'whatsapp:+6289638065793'
+botwa = 'whatsapp:+14155238886'
